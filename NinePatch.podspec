@@ -7,6 +7,7 @@ Pod::Spec.new do |spec|
   spec.version      = '0.0.1'
   
   spec.ios.deployment_target  = '11.0'
+  spec.swift_version= '5.8'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/568071718'
   spec.authors      = { 'o.o.c.' => '568071718@qq.com' }
